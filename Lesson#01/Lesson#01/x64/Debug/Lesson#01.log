@@ -1,0 +1,15 @@
+﻿  Lesson#01.cpp
+C:\My\CPP project\Lesson(1,5): error C2017: illegal escape sequence
+C:\My\CPP project\Lesson(1,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\My\CPP project\Lesson(1,4): error C2146: syntax error: missing ';' before identifier 'C'
+C:\My\CPP project\Lesson(1,8): error C2017: illegal escape sequence
+C:\My\CPP project\Lesson(1,20): error C2017: illegal escape sequence
+C:\My\CPP project\Lesson(1,27): error C2014: preprocessor command must start as first nonwhite space
+C:\My\CPP project\Lesson(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\My\CPP project\Lesson(6,5): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '../Lesson#01/Lesson#01.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '../Lesson#01/Lesson#01.cpp')
+  
